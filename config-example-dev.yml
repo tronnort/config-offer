@@ -1,12 +1,4 @@
 server:
   port: 8001
 
-spring:
-  application:
-    name: config-example
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        service-id: config-server
-      profile: dev
+
